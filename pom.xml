@@ -2,7 +2,6 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.das</groupId>
   <artifactId>com.das.sample</artifactId>
-  <version></version>
   <packaging>war</packaging>
   <build>
     <sourceDirectory>src</sourceDirectory>
